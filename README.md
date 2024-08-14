@@ -1,1 +1,1 @@
-# ormi5-git-study
+# ormi5-git-GibHub-study
